@@ -1,0 +1,17 @@
+.bloquesAmarillo {
+  display: block;
+  margin: 0;
+  height: 40px;
+  background-color: #FFFF00;
+  font-family: Century Gothic;
+
+}
+
+.bloqueRosa {
+  display: block;
+  margin: 0;
+  height: 40px;
+  background-color: #F853CD;
+  font-family: Century Gothic;
+
+}
