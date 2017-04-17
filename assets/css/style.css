@@ -1,12 +1,16 @@
 .bloquesAmarillo {
-  display: inline;
+  display: inline-block;
+  height: 40px;
+  width: 150px;
   background-color: #FFFF00;
   font-family: Century Gothic;
 
 }
 
 .bloqueRosa {
-  display: inline;
+  display: inline-block;
+  height: 40px;
+  width: 150px;
   background-color: #F853CD;
   font-family: Century Gothic;
 
